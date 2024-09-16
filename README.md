@@ -18,7 +18,7 @@ This is a fully responsive portfolio website designed to showcase my projects an
 - **Education**: Displaying my academic qualifications and certifications.
 - **Contact**: A section to get in touch with me for collaborations or opportunities.
 
-## How to View
-You can view the live version of the portfolio [here](https://your-portfolio-link.com) (Replace with your live portfolio link).
+<!--## How to View
+You can view the live version of the portfolio [here](https://your-portfolio-link.com) (Replace with your live portfolio link).-->
 
 Feel free to explore the code and leave any feedback or suggestions. Contributions are welcome!
